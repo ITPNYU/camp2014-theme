@@ -1,18 +1,15 @@
-/*
-Theme Name: ITP Camp 2014
-Theme URI: http://github.com/ITPNYU/camp2014-theme
-Author: NYU ITP
-Author URI: http://itp.nyu.edu
-Description: ITP Camp 2014 theme, based on Wordpress Twenty Fourteen.
-Version: 1.0
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tags: two-columns, three-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready
-Template: twentyfourteen
-Text Domain: camp2014-theme 
+/**
+ * Theme Name: ITP Camp 2014
+ * Theme URI: http://github.com/ITPNYU/camp2014-theme
+ * Description: ITP Camp 2014 theme, based on Oxygen
+ * Version: 1.0
+ * Author: AlienWP, NYU ITP
+ * Author URI: http://itp.nyu.edu/
+ * Tags: flexible-width, theme-options, threaded-comments, microformats, translation-ready, rtl-language-support, three-columns, right-sidebar, left-sidebar, custom-background, featured-images
+ * License: GNU General Public License v2.0
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ * Template: oxygen
+ * Text Domain: camp2014-theme 
+ */
 
-This theme, like WordPress, is licensed under the GPL.
-Use it to make something cool, have fun, and share what you've learned with others.
-*/
-
-@import url('../twentyfourteen/style.css');
+@import url('../oxygen/style.css');
