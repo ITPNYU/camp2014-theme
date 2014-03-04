@@ -42,5 +42,7 @@ h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #si
 #menu-primary li.current-menu-item a 
 {color: #fff !important;}
 
+#menu-primary{color: #fff !important;}
+
 
 
