@@ -20,7 +20,8 @@
 /*HEADER*/
 /************************/
 h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #site-title, #menu-primary li a
-{font-family: 'Cabin Sketch', cursive !important;}
+{font-family: 'Cabin Sketch', cursive !important;	line-height: 2.3em;
+}
 
 #header{background-color: #40d640; border-bottom-right-radius: 15px; border-bottom-left-radius: 15px; padding-top: 30px }
 #site-title a{font-size: 3em !important; margin-left:2% !important; color:#fff !important; line-height: 30px; }
