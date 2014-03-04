@@ -19,6 +19,8 @@
 h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #site-title, #menu-primary li a 
 {font-family: 'Cabin Sketch', cursive;}
 
+h1#site-title {font-family: 'Cabin Sketch', cursive !important; }
+
 /*changes link to grey if not on page*/
 a, a:visited, .page-template-front .hfeed-more .hentry .entry-title a:hover, .entry-title a, .entry-title a:visited 
 {color: rgb(170, 170, 170);}
