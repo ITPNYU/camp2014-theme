@@ -29,9 +29,8 @@ h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #si
 
 
 /*changes all nav links to green*/
-/*#menu-primary li.current-menu-item a 
-{color: #40d640;}*/
-
-a, a:visited, .page-template-front .hfeed-more .hentry .entry-title a:hover, .entry-title a, .entry-title  
+#menu-primary li.current-menu-item a 
 {color: #40d640;}
+
+
 
