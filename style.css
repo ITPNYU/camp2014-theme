@@ -16,17 +16,19 @@
 @import url(http://fonts.googleapis.com/css?family=Cabin+Sketch);
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
-/*header*/
+/************************/
+/*HEADER*/
 /************************/
 h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #site-title, #menu-primary li a
 {font-family: 'Cabin Sketch', cursive !important;}
 
 #header{background-color: #40d640; border-bottom-right-radius: 15px; border-bottom-left-radius: 15px; padding-top: 30px }
-#site-title a{font-size: 1em !important; margin-left:10% !important; color:#fff !important; line-height: 30px; }
+#site-title a{font-size: 3em !important; margin-left:10% !important; color:#fff !important; line-height: 30px; }
 
 #branding{width:90% !important; color:#ffffff !important;}
 
-/*nav bar*/
+/************************/
+/*NAVIGATION*/
 /************************/
 #menu-primary{margin-left: 2% !important;}
 /*changes all nav links to white*/
@@ -34,7 +36,8 @@ h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #si
 /*change color on hover*/
 #menu-primary ul li a:hover, #menu-primary li ul li a:hover { color: #222 !important; }
 
-/*content*/
+/************************/
+/*CONTENT*/
 /************************/
 
 
