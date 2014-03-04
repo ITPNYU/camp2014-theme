@@ -29,6 +29,7 @@ h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #si
 
 /*use a better font in the posts*/
 .entry-content {font-family: 'Open Sans', sans-serif !important;}
+.content-wrap {margin-left: 5%}
 
 ::selection {background: #40d640;}
 
