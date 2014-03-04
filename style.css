@@ -24,7 +24,8 @@ h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #si
 
 
 /*make the header a bit bigger*/
-#site-title{font-size: 5em !important; margin-left:10%; width:50% !important;}
+#site-title{font-size: 5em !important; margin-left:10%;}
+#branding{width:50% !important;}
 
 /*use a better font in the posts*/
 .entry-content {font-family: 'Open Sans', sans-serif !important;}
