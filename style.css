@@ -21,17 +21,16 @@ h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #si
 {font-family: 'Cabin Sketch', cursive !important;}
 
 #header{background-color: #40d640; color:#fff !important;border-bottom-right-radius: 15px; border-bottom-left-radius: 15px}
-
-
-/*make the header a bit bigger*/
 #site-title{font-size: 5em !important; margin-left:10% !important;}
 #branding{width:50% !important; color:#fff !important;}
+/*nav bar*/
+#menu-primary{margin-left: 2% !important;}
 
-
-.hentry .entry-title, .page-template-front .hentry .entry-title{margin-left:3% !important;}
+/*page titles*/
+.hentry .entry-title, .page-template-front .hentry .entry-title{margin-left:2% !important;}
 
 /*use a better font in the posts*/
-.entry-content {font-family: 'Open Sans', sans-serif !important;margin-left: 3% !important;margin-right: 3% !important;}
+.entry-content {font-family: 'Open Sans', sans-serif !important;margin-left: 2% !important;margin-right: 3% !important;}
 .content {}
 
 ::selection {background: #40d640;}
