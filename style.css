@@ -17,6 +17,7 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
 /*header*/
+/************************/
 h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #site-title, #menu-primary li a
 {font-family: 'Cabin Sketch', cursive !important;}
 
@@ -24,8 +25,18 @@ h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #si
 #site-title a{font-size: 1em !important; margin-left:10% !important; color:#fff !important; line-height: 30px; }
 
 #branding{width:90% !important; color:#ffffff !important;}
+
 /*nav bar*/
+/************************/
 #menu-primary{margin-left: 2% !important;}
+/*changes all nav links to white*/
+ #menu-primary li a{color: #fff !important;}
+/*change color on hover*/
+#menu-primary ul li a:hover, #menu-primary li ul li a:hover { color: #222 !important; }
+
+/*content*/
+/************************/
+
 
 /*page titles*/
 .hentry .entry-title, .page-template-front .hentry .entry-title{margin-left:2% !important;}
@@ -37,9 +48,7 @@ h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #si
 
 
 
-/*changes all nav links to white*/
- #menu-primary li a{color: #fff !important;}
-#menu-primary ul li a:hover, #menu-primary li ul li a:hover { color: #aaa !important; }
+
 
 
 
