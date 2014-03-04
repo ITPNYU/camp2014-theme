@@ -21,7 +21,7 @@ h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #si
 {font-family: 'Cabin Sketch', cursive !important;}
 
 #header{background-color: #40d640; border-bottom-right-radius: 15px; border-bottom-left-radius: 15px; padding-top: 30px }
-#site-title a{font-size: 2em !important; margin-left:10% !important; color:#fff !important; line-height: 30px; height:200px !important;margin-top: 50px;}
+#site-title a{font-size: 2em !important; margin-left:10% !important; color:#fff !important; line-height: 30px; }
 
 #branding{width:90% !important; color:#ffffff !important;}
 /*nav bar*/
