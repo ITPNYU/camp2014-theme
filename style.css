@@ -20,7 +20,7 @@
 /*HEADER*/
 /************************/
 h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #site-title, #menu-primary li a
-{font-family: 'Cabin Sketch', cursive !important;	line-height: 3em; 	margin: 0;}
+{font-family: 'Cabin Sketch', cursive !important;}
 
 #header{background-color: #40d640; border-bottom-right-radius: 15px; border-bottom-left-radius: 15px; padding-top: 30px }
 #site-title a{font-size: 3em !important; margin-left:2% !important; color:#fff !important; line-height: 30px; }
@@ -30,7 +30,7 @@ h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #si
 /************************/
 /*NAVIGATION*/
 /************************/
-#menu-primary{margin-left: 2% !important;margin-top: 0}
+#menu-primary{margin-left: 2% !important;}
 /*changes all nav links to white*/
  #menu-primary li a{color: #fff !important;}
 /*change color on hover*/
