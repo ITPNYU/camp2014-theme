@@ -37,9 +37,9 @@ h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #si
 
 
 
-/*changes all nav links to green*/
+/*changes all nav links to white*/
 #menu-primary li.current-menu-item a 
-{color: #40d640;}
+{color: #fff;}
 
 
 
