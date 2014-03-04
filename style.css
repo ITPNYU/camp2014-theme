@@ -20,7 +20,7 @@
 h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #site-title, #menu-primary li a
 {font-family: 'Cabin Sketch', cursive !important;}
 
-#header{background-color: #40d640; border-bottom-right-radius: 15px; border-bottom-left-radius: 15px}
+#header{background-color: #40d640; border-bottom-right-radius: 15px; border-bottom-left-radius: 15px; height:200px;}
 #site-title a{font-size: 2em !important; margin-left:10% !important; color:#fff !important;}
 
 #branding{width:90% !important; color:#ffffff !important;}
