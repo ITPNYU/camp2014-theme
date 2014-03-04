@@ -28,8 +28,8 @@ h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #si
 #branding{width:50% !important; color:#fff !important;}
 
 /*use a better font in the posts*/
-.entry-content {font-family: 'Open Sans', sans-serif !important;}
-.content {margin-left: 5% !important;}
+.entry-content {font-family: 'Open Sans', sans-serif !important;margin-left: 5% !important;}
+.content {}
 
 ::selection {background: #40d640;}
 
