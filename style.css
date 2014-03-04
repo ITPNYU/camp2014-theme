@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #si
 #branding{width:50% !important; color:#fff !important;}
 
 
-.hentry .entry-title, .page-template-front .hentry .entry-title {margin-right:3%}
+.hentry .entry-title, .page-template-front .hentry .entry-title{margin-right:3% !important;}
 
 /*use a better font in the posts*/
 .entry-content {font-family: 'Open Sans', sans-serif !important;margin-left: 3% !important;margin-right: 3% !important;}
