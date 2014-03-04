@@ -17,7 +17,7 @@
 
 /*header*/
 h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #site-title, #menu-primary li a
-{font-family: 'Cabin Sketch', cursive !important;}
+{font-family: 'Cabin Sketch', cursive !important; font-size: 2em;}
 
 /*h1#site-title {font-family: 'Cabin Sketch', cursive !important; }*/
 
