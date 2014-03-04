@@ -17,7 +17,7 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
 /*header*/
-h1, h2, h3, h4, h5, h6, dl dt, strong, blockquote, blockquote blockquote blockquote, #site-title, #menu-primary li a
+h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #site-title, #menu-primary li a
 {font-family: 'Cabin Sketch', cursive !important;}
 
 #site-title{font-size: 5em !important;}
