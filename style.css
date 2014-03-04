@@ -20,7 +20,7 @@
 h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #site-title, #menu-primary li a
 {font-family: 'Cabin Sketch', cursive !important;}
 
-#header{background-color: #40d640;}
+#header{background-color: #40d640;padding:50;}
 
 /*make the header a bit bigger*/
 #site-title{font-size: 5em !important;}
