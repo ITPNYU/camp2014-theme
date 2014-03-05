@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #si
 /*CONTENT*/
 /************************/
 #content{width:90%;}
-.content-wrap{max-width: 100%}
+.content-wrap{max-width: 100% !important}
 
 /*page titles*/
 .hentry .entry-title, .page-template-front .hentry .entry-title{margin-left:2% !important;padding-top: 1%}
