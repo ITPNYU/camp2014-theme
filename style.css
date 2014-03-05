@@ -53,6 +53,16 @@ h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #si
 
 ::selection {background: #40d640;}
 
+/************************/
+/*IMAGES*/
+/************************/
+img
+{
+-webkit-border-image:url(http://itp.nyu.edu/camp/2014/wp-content/uploads/sites/2/2014/03/border.png) 30 30 stretch; /* Safari 5 */
+-o-border-image:url(http://itp.nyu.edu/camp/2014/wp-content/uploads/sites/2/2014/03/border.png) 30 30 stretch; /* Opera */
+border-image:url(http://itp.nyu.edu/camp/2014/wp-content/uploads/sites/2/2014/03/border.png) 30 30 stretch;
+}
+
 
 /************************/
 /*FORMS*/
