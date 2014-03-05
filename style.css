@@ -24,7 +24,7 @@ h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #si
 
 #header{background-color: #40d640; border-bottom-right-radius: 12px; border-bottom-left-radius: 12px; padding-top: 20px }
 #site-title a{font-size: 3em !important; margin-left:2% !important; color:#fff !important; line-height: 30px; line-height: 1.1em;text-shadow: -1px 0 black, 0 1px black,
-      1px 0 black, 0 -1px black}
+      1px 0 black, 0 -1px #20B120}
 
 #branding{width:90% !important; color:#ffffff !important;}
 
