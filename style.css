@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #si
 /*changes all nav links to black*/
  #menu-primary li a{color: #222 !important;}
 /*change color on hover*/
-#menu-primary ul li a:hover, #menu-primary li ul li a:hover { color: #fff !important; font-size: 1.2em }
+#menu-primary ul li a:hover, #menu-primary li ul li a:hover { color: #fff !important; font-size: 1.5em }
 
 
 
