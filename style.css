@@ -36,8 +36,7 @@ h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #si
  #menu-primary li a{color: #222 !important;}
 /*change color on hover*/
 #menu-primary ul li a:hover, #menu-primary li ul li a:hover { color: #fff !important; }
-#menu-primary li li:first-child, #menu-primary li li.current-menu-item li:first-child { border-top: none; }
-#menu-primary li li a, #menu-primary li li.current-menu-item li a { font-size: 2em !important; }
+
 
 
 /************************/
