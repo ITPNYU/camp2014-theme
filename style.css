@@ -31,10 +31,10 @@ h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #si
 /*NAVIGATION*/
 /************************/
 #menu-primary{margin-left: 2% !important;}
-/*changes all nav links to white*/
- #menu-primary li a{color: #EDEEED !important;}
+/*changes all nav links to black*/
+ #menu-primary li a{color: #222 !important;}
 /*change color on hover*/
-#menu-primary ul li a:hover, #menu-primary li ul li a:hover { color: #222 !important; }
+#menu-primary ul li a:hover, #menu-primary li ul li a:hover { color: #fff !important; }
 
 /************************/
 /*CONTENT*/
