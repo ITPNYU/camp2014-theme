@@ -54,6 +54,12 @@ h1, h2, h3, h4, h5, h6, dl dt, blockquote, blockquote blockquote blockquote, #si
 ::selection {background: #40d640;}
 
 
+/************************/
+/*FORMS*/
+/************************/
+#gform_submit_button_1 {border-radius: 5px}
+
+
 
 
 
