@@ -78,7 +78,7 @@ padding-top:1% !important;
 @media only screen and (max-width: 400px) {
                     body { font-size:90% !important; }
                     #site-title a{font-size: .9em !important;}
-                    .nivo-caption {font-size:90%;}
+                    .nivo-caption {font-size:90% !important;}
      }
 
 
