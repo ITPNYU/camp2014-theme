@@ -22,7 +22,7 @@
 h1, h2, h3, h4, h5, h6, dl dt, strong, blockquote, blockquote blockquote blockquote, #site-title, #menu-primary li a
 {font-family: 'Cabin Sketch', cursive !important;}
 
-img {border:10px solid #021a40 !important;}
+img {border:10px solid #021a40 !important; border-radius: 10px !important;}
 
 
 #header{background-color: #40d640; border-bottom-right-radius: 12px; border-bottom-left-radius: 12px; padding-top: 20px }/*max width 940px*/
