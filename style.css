@@ -68,9 +68,9 @@ h1, h2, h3, h4, h5, h6, dl dt, strong, blockquote, blockquote blockquote blockqu
 {
 font-family: 'Cabin Sketch', cursive !important; 
 font-size: 3em !important; 
-top:10% !important; 
+top:5% !important; 
 opacity: 5% !important; 
-padding-top:10% !important;
+padding-top:1% !important;
 }
 
 
