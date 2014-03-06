@@ -76,7 +76,8 @@ padding-top:1% !important;
 }
 
 @media only screen and (max-width: 400px) {
-                    body { font-size:90% !important;}
+                    body { font-size:90% !important; }
+                    #site-title a{font-size: 3em !important;}
      }
 
 
