@@ -70,6 +70,7 @@ font-family: 'Cabin Sketch', cursive !important;
 font-size: 3em !important; 
 bottom:5% !important; 
 width:150% !important;
+overflow: visible !important;
 opacity: 5% !important; 
 padding-top:1% !important;
 }
