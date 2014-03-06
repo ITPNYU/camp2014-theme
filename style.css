@@ -22,7 +22,7 @@
 h1, h2, h3, h4, h5, h6, dl dt, strong, blockquote, blockquote blockquote blockquote, #site-title, #menu-primary li a
 {font-family: 'Cabin Sketch', cursive !important;}
 
-strong: {font-size: 1.5em}
+strong: {font-size: 1.7em}
 
 #header{background-color: #40d640; border-bottom-right-radius: 12px; border-bottom-left-radius: 12px; padding-top: 20px }/*max width 940px*/
 #site-title a{font-size: 3em !important; margin-left:2% !important; color:#fff !important; line-height: 30px; line-height: 1.1em;}
