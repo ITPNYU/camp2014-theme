@@ -75,6 +75,10 @@ opacity: 5% !important;
 padding-top:1% !important;
 }
 
+@media only screen and (max-width: 400px) {
+                    body { font-size:90% !important;}
+     }
+
 
 
 
