@@ -74,12 +74,13 @@ overflow: visible !important;
 opacity: 5% !important; 
 padding-top:1% !important;
 }
-
+/************************/
+/*MOBILE STUFF*/
+/************************/
 @media only screen and (max-width: 400px) {
                     body { font-size:70% !important; }
                     #site-title a{font-size: .9em !important;}
                     .nivo-caption {font-size:90% !important; height: 15% !important;}
-                    #menu-primary ul li{background-color:#40d640 !important;}
 
      }
 
