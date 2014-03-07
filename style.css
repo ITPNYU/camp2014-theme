@@ -60,7 +60,7 @@ h1, h2, h3, h4, h5, h6, dl dt, strong, blockquote, blockquote blockquote blockqu
 /************************/
 /*FORMS*/
 /************************/
-#gform_submit_button_2  {border-radius: 5px;font-family: 'Cabin Sketch', cursive !important; font-size: 1.5em !important;}
+#gform_submit_button_2, #gform_submit_button_3, #gform_submit_button_4, #gform_submit_button_5, #gform_submit_button_6  {border-radius: 5px;font-family: 'Cabin Sketch', cursive !important; font-size: 1.5em !important;}
 
 .gform_wrapper .description,
 .gform_wrapper .gfield_description,
