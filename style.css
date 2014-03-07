@@ -53,7 +53,7 @@ strong {font-size: 1.2em !important}
 
 
 #content{width:90%;}
-.content-wrap{max-width: 100% !important}
+.content-wrap{width: 100% !important}
 
 /*page titles*/
 .hentry .entry-title, .page-template-front .hentry .entry-title{margin-left:2% !important;padding-top: 1%}
