@@ -45,6 +45,13 @@ strong {font-size: 1.2em !important}
 /************************/
 /*CONTENT*/
 /************************/
+
+
+.aside {
+	width: 0 !important;	
+}
+
+
 #content{width:90%;}
 .content-wrap{max-width: 100% !important}
 
