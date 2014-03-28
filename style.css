@@ -52,7 +52,7 @@ strong {font-size: 1.2em !important}
 }
 
 
-#content{width:90%;}
+#content{width:90%; margin-top: 3%;}
 .content-wrap{width: 100% !important} /*this, coupled with .aside, formats blog posts and forms to the furthermost left*/
 
 /*page titles*/
