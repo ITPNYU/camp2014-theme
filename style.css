@@ -67,6 +67,11 @@ strong {font-size: 1.2em !important}
 
 #footer-content{width:100% !important;}
 
+.byline a, .byline a:visited {
+color: 
+#fff;
+}
+
 
 
 /************************/
