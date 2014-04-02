@@ -44,7 +44,7 @@ strong {font-size: 1.2em !important}
 .sub-menu {background: rgb(64,214,64) !important; border-radius: 5px !important; padding:1% !important;}
 
 #menu-secondary li ul {
-	border: 10px solid #252525;
+	border: 10px solid #252525 !important;
 	padding: 2px !important;
 
 }
