@@ -84,6 +84,10 @@ color:
 .gform_wrapper .gsection_description,
 .gform_wrapper .instruction {font-size: 1em !important;}
 
+input.ss-q-short, textarea.ss-q-long {
+width: 75%;
+}
+
 /************************/
 /*META SLIDER FOR THE SLIDE SHOWS*/
 /************************/
