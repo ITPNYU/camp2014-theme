@@ -81,6 +81,11 @@ color:
 #000;
 }
 
+.byline-cat {
+background: rgba(64,214,64,.25);
+border-radius: 5px !important;
+}
+
 
 
 /************************/
