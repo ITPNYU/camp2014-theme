@@ -41,7 +41,7 @@ strong {font-size: 1.2em !important}
 #menu-primary ul li a:hover, #menu-primary li ul li a:hover { color: #fff !important; font-size: 1.5em !important;}
 
 
-.sub-menu {background: rgba(255,255,255,0.1) !important;}
+.sub-menu {background: rgba(255,255,255,0.3) !important; border: none !important;}
 
 
 
